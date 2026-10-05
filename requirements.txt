@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-genai
+python-dotenv
+sqlalchemy
+faster-whisper
+python-multipart
+av==13.1.0

@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+meetings.db
+test_audio/
+test_transcribe.py
+.git/
